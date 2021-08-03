@@ -85,8 +85,13 @@ a {
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 .image8 {
     background-image: url(../images/black_obsidian.jpg);
+=======
+.image1 {
+    background-image: url(../images/rose_quartz.jpg);
+>>>>>>> Stashed changes
 =======
 .image1 {
     background-image: url(../images/rose_quartz.jpg);
@@ -111,8 +116,13 @@ a {
     background-image: url(../images/moonstone.jpg);
 }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 .image1 {
     background-image: url(../images/rose_quartz.jpg);
+=======
+.image8 {
+    background-image: url(../images/black_obsidian.jpg);
+>>>>>>> Stashed changes
 =======
 .image8 {
     background-image: url(../images/black_obsidian.jpg);
