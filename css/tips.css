@@ -1,0 +1,115 @@
+body {
+    background-color: #6E457D;
+    text-align: justify !important;
+}
+#navbarHeader {
+    background-color: #6E457D;
+}
+.navbar {
+    background-color: #6E457D
+}
+
+.button .navbar-toggler .navbar-toggler-icon {
+    color: white;
+}
+
+.nav-link {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.navbar-brand {
+    text-align: center !important;
+    padding-right: 50px;
+}
+
+.nav-link:hover {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50pt;
+    /* font-family: fantasy; */
+    margin-top: 10px;
+    text-shadow: 5px 5px 10px black;
+}
+
+.lead {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px black;
+}
+
+h3 {
+    font-size: 40px;
+    color: #ffffff;
+    text-shadow: 5px 5px 10px black;
+}
+
+.jumbotron {
+    /* background-color: #a188aa; */
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-image: url(../images/usgs-AMBSrPM5VWU-unsplash.jpg);
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #21072b;
+    border-color: #21072b;
+}
+
+a {
+    color: #ffffff;
+}
+
+.card .img_holder {
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center !important;
+}
+
+.card-body {
+    height: 320px;
+}
+
+.col {
+    margin: 10px !important;
+}
+
+.bg-light {
+    background-color: #a484af !important;
+}
+
+
+
+.image1 {
+    background-image: url(../images/rose_quartz.jpg);
+}
+.image2 {
+    background-image: url(../images/Black_Tourmaline.jpg);
+}
+.image3 {
+    background-image: url(../images/Carnelian.jpg);
+}
+.image4 {
+    background-image: url(../images/citrine.jpg);
+}
+.image5 {
+    background-image: url(../images/clear_quartz.jpeg);
+}
+.image6 {
+    background-image: url(../images/Malachite.jpg);
+}
+.image7 {
+    background-image: url(../images/moonstone.jpg);
+}
+.image8 {
+    background-image: url(../images/black_obsidian.jpg);
+}
+.image9 {
+    background-image: url(../images/shungite.jpg);
+}
